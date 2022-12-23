@@ -20,6 +20,35 @@
     color: var(--cor-cinza);
     font-weight: 400;
     font-size: 20px;
+    max-width: 700vw;
+}
+
+.containers{
+    display: flex;
+    align-content: center;
+    margin: 0 80px 96px 80px;
 }
 
 
+.containers_item{
+    padding: 0 32px;
+    max-width: 18vw;
+}
+
+.container_titulo{
+    color: var(--cor-vinho);
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.container_subtitulo{
+    color: var(--cor-azul-escuro);
+    font-size:18px;
+    padding: 0.7em 0;
+}
+
+.container_texto{
+    color: var(--cor-cinza);
+    font-weight: 400;
+
+}

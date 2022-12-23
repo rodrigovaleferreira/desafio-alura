@@ -1,5 +1,6 @@
 @import url("./styles/header.css");
 @import url("./styles/boddy.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
 :root{
     --cor-branco: #FFFFFF;
@@ -12,6 +13,7 @@ body{
     background-color: var(--cor-branco);
     font-weight: 500;
     font-size: 16px;
+    font-family: Inter;
 }
 
 
