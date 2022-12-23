@@ -1,0 +1,25 @@
+
+.box{
+    justify-content: center;
+    text-align: center;
+    margin: 96px 25em;
+}
+
+.lixo{
+    color: var(--cor-vinho);
+    font-weight: 600;
+}
+
+.introducao_titulo{
+    color: var(--cor-azul-escuro);
+    font-size: 48px;
+    font-weight: 600;
+    margin: 0.5em 0;
+}
+.introducao_descricao{
+    color: var(--cor-cinza);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+

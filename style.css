@@ -1,9 +1,11 @@
 @import url("./styles/header.css");
+@import url("./styles/boddy.css");
 
 :root{
     --cor-branco: #FFFFFF;
     --cor-cinza: #667085;
     --cor-vinho: #8E2424;
+    --cor-azul-escuro:#101828;
 }
 
 body{
