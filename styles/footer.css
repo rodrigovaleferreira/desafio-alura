@@ -1,0 +1,48 @@
+.rodape{
+    margin-top: 96px;
+    background-color: var(--cor-rodape);
+    text-align: center;
+}
+
+.contato{
+    padding:96px 336px 50px;
+}
+
+.rodape_titulo{
+    color: var(--cor-azul-escuro);
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.rodape_texto{
+    color: var(--cor-cinza);
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.formulario{
+    margin: 40px 0 32px 0;
+}
+
+.contato-email{
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 340px;
+    height: 48px;
+}
+
+.cadastro{
+    background-color: var(--cor-vinho);
+    color: var(--cor-branco);
+    border-radius: 3px;
+    height: 48px;
+    width: 100px;
+    margin-left: 16px;
+}
+
+.direitos_autorais{
+    font-weight: 400;
+    color: var(--cor-cinza-claro);
+}

@@ -2,6 +2,10 @@
 .box{
     justify-content: center;
     text-align: center;
+    
+}
+
+.introducao{
     margin: 96px 25em;
 }
 
@@ -51,4 +55,97 @@
     color: var(--cor-cinza);
     font-weight: 400;
 
+}
+
+.opcoes-vagas{
+    max-width: 50em;
+    margin: 3vw auto;
+}
+
+.vendas{
+    margin: 7em 0 2em 0;
+}
+
+.vendas-titulo{
+    color: var(--cor-azul-escuro);
+    font-size: 36px;
+    font-weight: 600;
+    margin: 0.5em 0;
+}
+
+.vendas_imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+
+.lixo_vendas{
+    background-color: var(--cor-vinho-claro);
+    border-radius: 20px;
+    padding: 4px 20px;
+}
+
+.vaga{
+    border: 1px solid var(--cor-cinza);
+    border-radius: 10px;
+    padding: 1.1em;
+    margin: 1.5em 0;
+}
+
+.titulo_vaga{
+    color: var(--cor-azul-escuro);
+    font-size: 18px;
+}
+
+.informacoes{
+    color: var(--cor-cinza);
+    padding-top: 2em;
+}
+
+.area_vaga{
+    color: var(--cor-azul-escuro);
+    font-size: 20px;
+}
+
+.salario_vaga{
+    margin-left: 0.4em;
+}
+
+.vaga2{
+    padding-top: 2em;
+}
+
+.informacao{
+    text-align: center;
+    background-color: var(--cor-vermelho-claro);
+    margin: 0 10vw;
+    padding: 64px 64px;
+    border-radius: 15px;
+}
+
+.informacao_titulo{
+    color: var(--cor-vinho);
+    font-weight: 900;
+    font-size: 14px;
+}
+
+.informacao_paragrafo{
+    font-size: 36px;
+    color: var(--cor-azul-escuro);
+    margin: 16px 0;
+}
+.informacao_autora{
+    margin-top: 32px;
+}
+
+.autora_nome{
+    color: var(--cor-azul-escuro);
+    margin:16px 0 4px 0 ;
+}
+
+.autora_area{
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cor-cinza);
 }

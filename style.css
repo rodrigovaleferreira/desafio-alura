@@ -1,5 +1,6 @@
 @import url("./styles/header.css");
 @import url("./styles/boddy.css");
+@import url("./styles/footer.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
 :root{
@@ -7,6 +8,10 @@
     --cor-cinza: #667085;
     --cor-vinho: #8E2424;
     --cor-azul-escuro:#101828;
+    --cor-vinho-claro: #f2e3e3;
+    --cor-vermelho-claro: rgba(195, 25, 25, 0.03);
+    --cor-rodape:#F9FAFB;
+    --cor-cinza-claro:#98A2B3;
 }
 
 body{
